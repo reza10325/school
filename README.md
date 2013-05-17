@@ -1,6 +1,1 @@
-school 
-hoseine ghafoori
-======
-javad noori
-Mohammmad Alipour!
-Parsi
+schools
